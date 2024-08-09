@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": "70a3",
+      "text": "Monda",
+      "day": "Friday",
+      "reminder": true
+    }
+  ]
+}
